@@ -3,8 +3,8 @@ const sequelize = require('./utils/database')
 
 const Lesson = require('./models/lesson')
 const LessonStudentLink = require('./models/lessonStudentLink')
-const Passport = require('./models/passport')
 const Student = require('./models/student')
+const Passport = require('./models/passport')
 const Teacher = require('./models/teacher')
 const student = require('./models/student')
 
